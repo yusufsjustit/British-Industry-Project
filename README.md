@@ -1,5 +1,5 @@
-![tobias-fischer-PkbZahEG2Ng-unsplash](https://user-images.githubusercontent.com/125282550/231796669-aefbefed-0e1f-4b82-8872-a5f8f4dac8e1.jpg)
-# British-Industry-Dashboard
+# <span style="color:blue">some *blue* British-Industry-Dashboard</span>.
+
 
 ## My Tableau Dashboard
 ### My Project
