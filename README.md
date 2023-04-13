@@ -1,7 +1,4 @@
-# - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-
-
-
+# My British Industry Dashboard
 
 ## My Tableau Dashboard
 ### My Project
