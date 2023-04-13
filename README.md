@@ -9,8 +9,8 @@
 
 
 My PowerBI Dashboard
-[
-[[<iframe title="1st dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b)](https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b)](https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b)
+
+[<iframe title="1st dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b)](https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b)](https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b)
 
 https://app.powerbi.com/reportEmbed?reportId=ed8ebf2d-81c1-4dca-bd44-e0244980a240&autoAuth=true&ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b
 [My PowerBI Dashboard](https://app.powerbi.com/links/Pz2YLaZHbf?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
