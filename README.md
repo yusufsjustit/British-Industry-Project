@@ -11,7 +11,6 @@
 
 ![My Image](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/GitHub.jpeg)
 
-[1st-dashboard.jpg](https://postimg.cc/21TP0hHY)
-
+[![1st-dashboard.jpg](https://i.postimg.cc/FKQNsx3Y/1st-dashboard.jpg)](https://postimg.cc/21TP0hHY)
 
 [My PowerBI Dashboard](https://app.powerbi.com/links/Pz2YLaZHbf?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
