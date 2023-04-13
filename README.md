@@ -1,3 +1,4 @@
+![1st dashboard](https://user-images.githubusercontent.com/125282550/231796406-6495d9ab-4834-4aa5-aea1-ea4125d6e8e8.jpg)
 ![1st dashboard](https://user-images.githubusercontent.com/125282550/231796033-e5cc7f95-b943-431f-8ddd-fcf7d2bd34c0.jpg)
 # British-Industry-Dashboard
 
