@@ -9,7 +9,7 @@
 
 
 
-![My Image](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/GitHub.jpeg {width=20px height=200px})
+![My Image](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/GitHub.jpeg {width=5px height=50px})
 
 [![1st-dashboard.jpg](https://i.postimg.cc/FKQNsx3Y/1st-dashboard.jpg)](https://postimg.cc/21TP0hHY)
 
