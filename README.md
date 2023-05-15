@@ -17,3 +17,6 @@
 
 
 <img src="https://github.com/favicon.ic](https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/GitHub.jpeg" width="5">
+
+[Link to my Dahsboard](https://app.powerbi.com/links/sHOEjvSFx8?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
+
